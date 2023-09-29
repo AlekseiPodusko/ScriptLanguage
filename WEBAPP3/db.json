@@ -1,0 +1,28 @@
+{
+"menu": [
+    {
+        "img":"img/tabs/vegy.jpg",
+        "altring":"vegy",
+        "title":"Меню 'Фитнес'",
+        "descr":"Меню 'Фитнес' и ба бла блалала",
+        "price":9
+    },
+    {
+        "img":"img/tabs/post.jpg",
+        "altring":"post",
+        "title":"Меню 'Постное'",
+        "descr":"Меню 'Постное' и ба бла блалала",
+        "price":14
+    },
+    {
+        "img":"img/tabs/elite.jpg",
+        "altring":"elite",
+        "title":"Меню 'Элитное'",
+        "descr":"Меню 'Элитное' и ба бла блалала",
+        "price":21
+    }
+],
+    "requests":[
+
+    ]
+}
